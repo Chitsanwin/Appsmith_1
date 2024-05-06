@@ -1,0 +1,1 @@
+SELECT COUNT(*) from Airblast WHERE Company LIKE '%{{Table1.searchText}}%';
